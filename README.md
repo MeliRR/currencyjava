@@ -5,7 +5,7 @@ This is a simple console-based Java program that converts amounts from **US Doll
 
 The goal of this assignment is to demonstrate basic Java skills such as user input, conditionals, and arithmetic operations in a practical real-world scenario.
 
-🎥 You can watch a demo of my program here: *[Currency Converter Demo Video]*
+🎥 You can watch a demo of my program here: *[[Currency Converter Demo Video]](https://youtu.be/vri7YeB45Uo)*
 
 ---
 
